@@ -1,0 +1,5 @@
+{"_id":{"$oid":"6560e432a6b991893a2f17fa"},"Nombre":"Lucas Gonzalez","Edada":"43","Equipo":"America de Cali","Nacionalidad":"Colombiana"}
+{"_id":{"$oid":"6560e432a6b991893a2f17fb"},"Nombre":"Alberto Gamero","Edada":"55","Equipo":"Millonarios","Nacionalidad":"Colombiana"}
+{"_id":{"$oid":"6560e432a6b991893a2f17fc"},"Nombre":"Xavi Hernandez","Edada":"43","Equipo":"Santa fe","Nacionalidad":"Española"}
+{"_id":{"$oid":"6560e432a6b991893a2f17fd"},"Nombre":"Carlos Ancheloti","Edada":"57","Equipo":"Tolima","Nacionalidad":"Italiana"}
+{"_id":{"$oid":"6560e432a6b991893a2f17fe"},"Nombre":"Hernan Torres","Edada":"49","Equipo":"Medellin","Nacionalidad":"Colombiana"}

@@ -1,0 +1,5 @@
+{"_id":{"$oid":"656157e6187d225619bb945a"},"Nombre":"Edwin Cardona","Edad":"37","Equipo":"America de Cali"}
+{"_id":{"$oid":"656157e6187d225619bb945b"},"Nombre":"Marco Perez","Edad":"32","Equipo":"Tolima"}
+{"_id":{"$oid":"656157e6187d225619bb945c"},"Nombre":"Macalister Silva","Edad":"37","Equipo":"Millonarios"}
+{"_id":{"$oid":"656157e6187d225619bb945d"},"Nombre":"Kevin Castaño","Edad":"27","Equipo":"Medellin"}
+{"_id":{"$oid":"656157e6187d225619bb945e"},"Nombre":"Hugo Rodallega","Edad":"33","Equipo":"Santa Fe"}

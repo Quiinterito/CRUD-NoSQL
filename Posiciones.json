@@ -1,0 +1,5 @@
+{"_id":{"$oid":"6560e7d3a6b991893a2f1804"},"Equipo":"America de cali","Puntos":"9","Partidos_Jugados":"3","Partidos_Ganados":"3","Partidos_Empatados":"0","Partidos_Perdidos":"0"}
+{"_id":{"$oid":"6560e7d3a6b991893a2f1805"},"Equipo":"Tolima","Puntos":"7","Partidos_Jugados":"3","Partidos_Ganados":"2","Partidos_Empatados":"1","Partidos_Perdidos":"0"}
+{"_id":{"$oid":"6560e7d3a6b991893a2f1806"},"Equipo":"Millonarios","Puntos":"6","Partidos_Jugados":"3","Partidos_Ganados":"2","Partidos_Empatados":"0","Partidos_Perdidos":"1"}
+{"_id":{"$oid":"6560e7d3a6b991893a2f1807"},"Equipo":"Medellin","Puntos":"3","Partidos_Jugados":"3","Partidos_Ganados":"1","Partidos_Empatados":"0","Partidos_Perdidos":"2"}
+{"_id":{"$oid":"6560e7d3a6b991893a2f1808"},"Equipo":"Santa Fe","Puntos":"0","Partidos_Jugados":"3","Partidos_Ganados":"0","Partidos_Empatados":"0","Partidos_Perdidos":"3"}
